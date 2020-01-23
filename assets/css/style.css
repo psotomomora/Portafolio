@@ -1,0 +1,35 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Cairo', sans-serif;
+}
+.fondoformulario {
+  background-color: #660066;
+}
+
+.letrainicial {
+  font-size: 50px;
+  font: condensed 60%;
+  margin-top: 10px;
+}
+
+.fotodetras {
+margin-top: 90px;
+width: 100%;
+}
+
+.textoseccion {
+text-align: center;
+font-family: 'Cairo', sans-serif;
+padding: 10px;
+margin-top: 25px;
+margin-bottom: 25px;
+}
+
+.textocentrado {
+  text-align: center;
+  margin-top: 25px;
+}
+hr {
+  width: 100px;
+  margin-bottom: 15px;
+}
