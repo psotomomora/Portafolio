@@ -31,5 +31,28 @@ margin-bottom: 25px;
 }
 hr {
   width: 100px;
-  margin-bottom: 15px;
+}
+.centrado {
+  margin-top: 30px;
+  margin-left: 260px;
+  margin-bottom: 60px;
+}
+.espacio {
+width: 70%;
+height: 70%;
+margin-left: 50px;
+margin-top: 70px;
+}
+
+.colorfondo {
+  background-color: #660066;
+  padding: 2%;
+}
+
+.margenarriba {
+margin-top: 40px;
+}
+
+.margenabajo {
+margin-bottom: 40px;
 }
