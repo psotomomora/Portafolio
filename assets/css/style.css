@@ -27,7 +27,6 @@ margin-bottom: 25px;
 
 .textocentrado {
   text-align: center;
-  margin-top: 25px;
 }
 hr {
   width: 100px;
@@ -46,13 +45,40 @@ margin-top: 70px;
 
 .colorfondo {
   background-color: #660066;
-  padding: 2%;
-}
-
-.margenarriba {
-margin-top: 40px;
 }
 
 .margenabajo {
 margin-bottom: 40px;
+}
+
+.textoalineadocentro {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.btn-primary {
+  font-family: 'Cairo', sans-serif;
+  background-color: #373A3C;
+  border: 0px;
+  align-items: center;
+}
+.textofooter {
+  font-family: 'Cairo', sans-serif;
+  color: #373A3C;
+  text-align: center;
+}
+
+.fondofinal {
+  background-color: #660066;
+  padding-top: 20px;
+  padding-bottom: 20px;
+font-family: 'Cairo', sans-serif;
+text-align: center;
+}
+
+.fondofinalfiguras {
+  background-color: #660066;
+  padding-top: 5px;
+  padding-bottom: 50px;
+font-family: 'Cairo', sans-serif;
 }
