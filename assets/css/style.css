@@ -11,8 +11,8 @@ body {
 }
 
 .letrainicial {
-  font-size: 50px;
-  font: condensed 60%;
+  font-family: 'Cairo', sans-serif;
+  font-size: 40px;
   margin-top: 10px;
 }
 
@@ -57,7 +57,7 @@ margin-bottom: 40px;
 
 .textoalineadocentro {
   text-align: center;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 
@@ -85,10 +85,6 @@ text-align: center;
   background-color: #660066;
 font-family: 'Cairo', sans-serif;
 display: inline-block;
-}
-
-.fondologos {
-background-color: #660066;
 }
 
 h2 {
